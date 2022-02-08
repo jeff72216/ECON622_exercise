@@ -1,1 +1,1 @@
-# ECON622_exercise
+This repository is created for the weekly problem sets of UBC ECON622.
